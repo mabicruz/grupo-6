@@ -2,11 +2,11 @@
 
 Cruz, Maribel - DNI 38328992 - cruzmaribel013@gmail.com - https://github.com/mabicruz
 
-Brocanelli Lucas Sebastián - DNI 30899946 -lucassebastianbrocanelli@gmail.com - https://github.com/luquilla84
+Brocanelli, Lucas Sebastián - DNI 30899946 -lucassebastianbrocanelli@gmail.com - https://github.com/luquilla84
 
-Acosta Gabriela - DNI 30840984 - gabrielaacosta420@gmail.com - https://github.com/gabriela11111/soluciones-Practicas.git
+Acosta, Gabriela - DNI 30840984 - gabrielaacosta420@gmail.com - https://github.com/gabriela11111/soluciones-Practicas.git
 
-Ferreyra Dubouloy Nahir - DNI: 38729488 - nahirfdubouloy@gmail.com - [https://github.com/nahirfd](https://github.com/nahirfd/introduccion-a-la-Programacion---ISPC.git)
+Ferreyra Dubouloy, Nahir - DNI: 38729488 - nahirfdubouloy@gmail.com - [https://github.com/nahirfd](https://github.com/nahirfd/introduccion-a-la-Programacion---ISPC.git)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
