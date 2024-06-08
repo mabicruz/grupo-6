@@ -11,7 +11,7 @@ Ferreyra Dubouloy, Nahir - DNI: 38729488 - nahirfdubouloy@gmail.com - [https://g
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-**MELODIST:**
+**Descripcion del Proyecto:**
 Melodist es una aplicación para recomendar música a partir de los datos ingresados por cada usuario (género, edad, gusto musical, estado de ánimo etc). 
 La idea principal es ir aplicando filtros a medida que el usuario ingresa sus datos, para poder hacer una selección en la base de datos y devolver lo que el usuario requiere.
 Para ello se tendrá en cuenta álbum, canciones, artista, género musical, etc. 
