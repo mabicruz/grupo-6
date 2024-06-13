@@ -50,7 +50,7 @@ class App:
         self.conexion.commit()
         
 app = App()
-app.Insertar() 
+""" app.Insertar() 
 app.Mostrar() 
 app.Actualizar() 
-app.Mostrar()
+app.Mostrar() """
