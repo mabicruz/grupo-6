@@ -5,10 +5,10 @@ def create_connection():
     connection = None
     try:
         connection = mysql.connector.connect(
-            host='casa-HP-280-G3-SFF-Business-PC', 
+            host='localhost', 
             database='mydb',
-            user='root',    
-            password='nueva_contraseña'
+            user='usuario',    
+            password='123456'
                 )
         if connection.is_connected():
             print("Conexión exitosa a la base de datos")
