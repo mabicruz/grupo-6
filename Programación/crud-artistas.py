@@ -6,7 +6,7 @@ class App:
     def __init__(self):
         self.conexion = mysql.connector.connect(
             user= "root", 
-            password="tiamijuamax95", 
+            password="####", 
             host="localhost", 
             database="melodist", 
             port="3306"
