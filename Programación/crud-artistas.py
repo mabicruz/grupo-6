@@ -1,21 +1,6 @@
 import mysql.connector 
 import os
 
-class App:
-    
-    def __init__(self):
-        self.conexion = mysql.connector.connect(
-            user= "root", 
-            password="####", 
-            host="localhost", 
-            database="melodist", 
-            port="3306"
-            )
-        self.cursor = self.conexion.cursor()
-        print("========================================================================")
-        print("Conexion realizada exitosa")
-        
-
     def Insertar(self):
         print("========================================================================")
         print("-------------------CREAR ARTISTA----------------------------------------")
